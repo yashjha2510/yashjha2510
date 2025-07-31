@@ -14,9 +14,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 
-### 🧠 DSA Tools
-![LeetCode](https://img.shields.io/badge/-LeetCode-black)
-![GeeksforGeeks](https://img.shields.io/badge/-GFG-green)
 
 ### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
@@ -33,6 +30,14 @@
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=google-colab&logoColor=black&style=flat)
 ![Replit](https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white&style=flat)
 
+### 🧠 DSA Tools
+![LeetCode](https://img.shields.io/badge/-LeetCode-black)
+![GeeksforGeeks](https://img.shields.io/badge/-GFG-green)
+
+### 📋 Productivity Tools
+![MS Word](https://img.shields.io/badge/-MS_Word-2B579A?logo=microsoftword&logoColor=white)
+![MS Excel](https://img.shields.io/badge/-MS_Excel-217346?logo=microsoftexcel&logoColor=white)
+![MS PowerPoint](https://img.shields.io/badge/-MS_PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashjha2510/)
