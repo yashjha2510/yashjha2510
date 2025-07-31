@@ -11,6 +11,8 @@
 ![HTML](https://img.shields.io/badge/-HTML5-red)
 ![CSS](https://img.shields.io/badge/-CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
 
 ### 🧠 DSA Tools
 ![LeetCode](https://img.shields.io/badge/-LeetCode-black)
