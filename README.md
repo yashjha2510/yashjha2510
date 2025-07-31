@@ -22,10 +22,15 @@
 ![SQL Server](https://img.shields.io/badge/-MS_SQL_Server-lightgrey)
 
 
-### 💻 IDEs & Editors
-![VS Code](https://img.shields.io/badge/-VSCode-blue)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-red)
-![Eclipse](https://img.shields.io/badge/-Eclipse-purple)
+### 💻 Editors & IDEs I Use
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?logo=sublime-text&logoColor=white&style=flat)
+![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&logoColor=black&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=google-colab&logoColor=black&style=flat)
+![Replit](https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white&style=flat)
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashjha2510/)
