@@ -18,6 +18,9 @@
 
 ### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+![Oracle](https://img.shields.io/badge/-Oracle_DB-red)
+![SQL Server](https://img.shields.io/badge/-MS_SQL_Server-lightgrey)
+
 
 ### 💻 IDEs & Editors
 ![VS Code](https://img.shields.io/badge/-VSCode-blue)
