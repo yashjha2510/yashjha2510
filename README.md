@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Jha
 
-<!--
-**yashjha2510/yashjha2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm learning Java, DSA, and working on full-stack development  
+📚 Currently building Java-based projects and improving frontend skills  
+🤝 Always open to collaboration on web apps or DSA learning
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages
+![Java](https://img.shields.io/badge/-Java-orange)
+![HTML](https://img.shields.io/badge/-HTML5-red)
+![CSS](https://img.shields.io/badge/-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+### 🧠 DSA Tools
+![LeetCode](https://img.shields.io/badge/-LeetCode-black)
+![GeeksforGeeks](https://img.shields.io/badge/-GFG-green)
+
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+
+### 💻 IDEs & Editors
+![VS Code](https://img.shields.io/badge/-VSCode-blue)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-red)
+![Eclipse](https://img.shields.io/badge/-Eclipse-purple)
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yashjha2510)
