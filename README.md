@@ -25,5 +25,5 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-purple)
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashjha2510/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yashjha2510)
