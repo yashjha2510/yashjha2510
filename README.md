@@ -42,3 +42,10 @@
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashjha2510/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yashjha2510)
+
+### 🎯 Fun Facts About Me
+
+- 😴 Solving DSA in dreams is my hidden superpower.
+- 🍕 Code + Chai = My kind of party.
+
+
