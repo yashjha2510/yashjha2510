@@ -40,7 +40,7 @@
 ![MS PowerPoint](https://img.shields.io/badge/-MS_PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashjha2510/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashjha251/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yashjha2510)
 
 ### 🎯 Fun Facts About Me
