@@ -31,7 +31,7 @@
 ![Replit](https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white&style=flat)
 
 ### 🧠 DSA Tools
-[![LeetCode](https://leetcode.com/u/yashjha2510/)](https://img.shields.io/badge/-LeetCode-black)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black)](https://leetcode.com/u/yashjha2510/)
 ![GeeksforGeeks](https://img.shields.io/badge/-GFG-green)
 
 ### 📋 Productivity Tools
