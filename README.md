@@ -1,51 +1,100 @@
-# 👋 Hi, I'm Yash Jha
+<h1 align="center">Hi 👋, I'm Yash Jha</h1>
 
-🚀 I'm learning Java, DSA, and working on full-stack development  
-📚 Currently building Java-based projects and improving frontend skills  
-🤝 Always open to collaboration on web apps or DSA learning
+<h3 align="center">
+Java Backend Developer | Spring Boot Enthusiast | MCA Graduate
+</h3>
 
-## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Real+World+Projects;Open+to+Internships+and+Job+Opportunities" />
+</p>
 
-### 🚀 Languages
-![Java](https://img.shields.io/badge/-Java-orange)
-![HTML](https://img.shields.io/badge/-HTML5-red)
-![CSS](https://img.shields.io/badge/-CSS3-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+---
 
+## 👨‍💻 About Me
 
+- 🎓 MCA Graduate
+- 💻 Passionate about Backend Development
+- 🌱 Currently improving my skills in Java, Spring Boot and DSA
+- 🚀 Looking for Internship and Software Developer opportunities
+- 🛠️ Building projects using Java, Spring Boot, Hibernate and MySQL
+- 📚 Always learning and improving
 
-### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-blue)
-![Oracle](https://img.shields.io/badge/-Oracle_DB-red)
-![SQL Server](https://img.shields.io/badge/-MS_SQL_Server-lightgrey)
+---
 
+## 🚀 Tech Stack
 
-### 💻 Editors & IDEs I Use
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat)
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-FF9800?logo=sublime-text&logoColor=white&style=flat)
-![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&logoColor=black&style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=google-colab&logoColor=black&style=flat)
-![Replit](https://img.shields.io/badge/-Replit-667881?logo=replit&logoColor=white&style=flat)
+### Frontend
 
-### 🧠 DSA Tools
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black)](https://leetcode.com/u/yashjha2510/)
-![GeeksforGeeks](https://img.shields.io/badge/-GFG-green)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+</p>
 
-### 📋 Productivity Tools
-![MS Word](https://img.shields.io/badge/-MS_Word-2B579A?logo=microsoftword&logoColor=white)
-![MS Excel](https://img.shields.io/badge/-MS_Excel-217346?logo=microsoftexcel&logoColor=white)
-![MS PowerPoint](https://img.shields.io/badge/-MS_PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+### Backend
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashjha2510/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/yashjha2510)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate" />
+</p>
 
-### 🎯 Fun Facts About Me
+### Tools & Technologies
 
-- 😴 Solving DSA in dreams is my hidden superpower.
-- 🍕 Code + Chai = My kind of party.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
+---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashJha2510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashJha2510&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YashJha2510&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashJha2510&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### Smart Contact Manager
+A Spring Boot based web application for managing contacts with authentication and user management features.
+
+### Personal Portfolio Website
+Responsive portfolio showcasing projects, skills and achievements.
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://yashjha2510.github.io/my-portfolio/">
+  🌍 Portfolio
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashJha2510&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
